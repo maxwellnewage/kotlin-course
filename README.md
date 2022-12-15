@@ -18,6 +18,12 @@ Tener conocimientos básicos en programación puede facilitar el aprendizaje de 
 - [Clase #11 - Condicional When](https://dev.to/maxwellnewage/curso-kotlin-11-condicional-when-4l1d)
 - [Clase #12 - Bucle While](https://dev.to/maxwellnewage/curso-kotlin-12-bucle-while-3ip3)
 - [Clase #13 - Bucle For](https://dev.to/maxwellnewage/curso-kotlin-13-bucle-for-oid)
+- [Clase #14 - Rangos](https://dev.to/maxwellnewage/curso-kotlin-14-rangos-1ehp)
+- [Clase #15 - Excepciones](https://dev.to/maxwellnewage/curso-kotlin-15-excepciones-150l)
+- [Clase #16 - Funciones](https://dev.to/maxwellnewage/curso-kotlin-16-funciones-73h)
+- [Clase #17 - Proyecto: The Hero Legacy](https://dev.to/maxwellnewage/curso-kotlin-17-proyecto-the-hero-legacy-1k6h)
+- [Clase #18 - Vamos a darle vida al Heroe](https://dev.to/maxwellnewage/curso-kotlin-18-vamos-a-darle-vida-al-heroe-49j1)
+- [Clase #19 - Pair](https://dev.to/maxwellnewage/curso-kotlin-19-pair-2ohe)
 
 ## Futuras actualizaciones
 El curso se actualizará a medida que publique nuevos artículos, por lo cual te recomiendo seguirme en [DEV.to](https://dev.to/maxwellnewage); aunque también estoy publicando novedades en mi cuenta de [Twitter](https://twitter.com/maxwellnewage) y [LinkedIn](https://www.linkedin.com/in/maximilianoburgos/).
