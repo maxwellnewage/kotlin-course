@@ -10,6 +10,14 @@ Tener conocimientos básicos en programación puede facilitar el aprendizaje de 
 - [Clase #3 - Hola Mundo y Estructura del Proyecto](https://dev.to/maxwellnewage/curso-kotlin-3-hola-mundo-y-estructura-del-proyecto-30jn)
 - [Clase #4 - Variables y tipos de Datos](https://dev.to/maxwellnewage/curso-kotlin-4-variables-y-tipos-de-datos-17i7)
 - [Clase #5 - Tipo String](https://dev.to/maxwellnewage/curso-kotlin-5-tipo-string-3noo)
+- [Clase #6 - Tipos Char y CharSequence](https://dev.to/maxwellnewage/curso-kotlin-6-tipos-char-y-charsequence-n10)
+- [Clase #7 - Entrada de datos](https://dev.to/maxwellnewage/curso-kotlin-7-entrada-de-datos-56g1)
+- [Clase #8 - Null Safety](https://dev.to/maxwellnewage/curso-kotlin-8-null-safety-23m5)
+- [Clase #9 - Arrays](https://dev.to/maxwellnewage/curso-kotlin-9-arrays-3m0n)
+- [Clase #10 - Condicional IF](https://dev.to/maxwellnewage/curso-kotlin-10-condicional-if-1137)
+- [Clase #11 - Condicional When](https://dev.to/maxwellnewage/curso-kotlin-11-condicional-when-4l1d)
+- [Clase #12 - Bucle While](https://dev.to/maxwellnewage/curso-kotlin-12-bucle-while-3ip3)
+- [Clase #13 - Bucle For](https://dev.to/maxwellnewage/curso-kotlin-13-bucle-for-oid)
 
 ## Futuras actualizaciones
 El curso se actualizará a medida que publique nuevos artículos, por lo cual te recomiendo seguirme en [DEV.to](https://dev.to/maxwellnewage); aunque también estoy publicando novedades en mi cuenta de [Twitter](https://twitter.com/maxwellnewage) y [LinkedIn](https://www.linkedin.com/in/maximilianoburgos/).
